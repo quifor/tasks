@@ -1,3 +1,3 @@
-waffle readme test
+Ok, so I am going to mention the issue in this commit
 
 [![Stories in Ready](https://badge.waffle.io/quifor/tasks.png)](http://waffle.io/quifor/tasks)
